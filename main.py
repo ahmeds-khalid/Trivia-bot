@@ -4,7 +4,7 @@ import requests
 import random
 import asyncio
 
-TOKEN = 'MTMwNTkyNzAxNTM0MTM2MzI4MQ.GyCzRc.Dwzql-EB_BNj3yrJhDm7MiGxRCqdC-35x2-0fY'
+TOKEN = 'token' #It has been changed, Get a new token from the developers portal
 
 intents = nextcord.Intents.default()
 intents.message_content = True
